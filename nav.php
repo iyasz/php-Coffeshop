@@ -14,7 +14,7 @@
 <body>
 <nav class="navbar navbar-expand-lg bg-dark shadow-sm">
   <div class="container-fluid">
-    <a class="navbar-brand text-light" href="#"><img src="" alt=""></a>
+    <a class="navbar-brand text-light" href="#"><img src="logo.png" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -24,19 +24,19 @@
           <a class="nav-link active text-light" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Menu</a>
+          <a class="nav-link text-light" href="#">Menu</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Trending</a>
+          <a class="nav-link text-light" href="#">Trending</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Rewards</a>
+          <a class="nav-link text-light" href="#">Rewards</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Responbillity</a>
+          <a class="nav-link text-light" href="#">Responbillity</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link text-light" href="#">About</a>
         </li>
       </ul>
       <span class="navbar-text">
