@@ -12,36 +12,36 @@
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg bg-dark shadow-sm">
+<nav class="navbar navbar-expand-lg bg-dark shadow-sm p-3">
   <div class="container-fluid">
-    <a class="navbar-brand text-light" href="#"><img src="logo.png" alt=""></a>
+    <a class="navbar-brand text-light mb-0 h1 ms-5 fs-4" href="#">CoffeShop</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
         <li class="nav-item">
-          <a class="nav-link active text-light" aria-current="page" href="#">Home</a>
+          <a class="nav-link active text-light ms-5" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" href="#">Menu</a>
+          <a class="nav-link text-light ms-2" href="#">Menu</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" href="#">Trending</a>
+          <a class="nav-link text-light ms-2" href="#">Trending</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" href="#">Rewards</a>
+          <a class="nav-link text-light ms-2" href="#">Rewards</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" href="#">Responbillity</a>
+          <a class="nav-link text-light ms-2" href="#">Responbillity</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" href="#">About</a>
+          <a class="nav-link text-light ms-2" href="#">About</a>
         </li>
       </ul>
-      <span class="navbar-text">
+      <!-- <span class="navbar-text text-light">
         Navbar text with an inline element
-      </span>
+      </span> -->
     </div>
   </div>
 </nav>
